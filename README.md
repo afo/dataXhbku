@@ -17,6 +17,7 @@ This is the official repository for the Data-X seminar and guest lecture at HBKU
 
 ## 📚 Resources
 
+* # [Start with the Crash Course](https://github.com/afo/dataXhbku/blob/master/data-x-crash-course.ipynb)
 * ## [Install Instructions and Prep Material](https://github.com/afo/dataXhbku/blob/master/install-instructions/setup-installation-masterclass.pdf)
 * ### [Data-X Official Website](https://data-x.blog/)
 * ##### [Data-X Network](https://data-x.blog/advisors/)
