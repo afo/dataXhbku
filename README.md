@@ -4,11 +4,11 @@ Data-X @ HBKU
 
 ### Nov 8 and 11, 2018
 
-This is the official repository for the Data-X seminar and guest lecture at HBKU in November 2018.
+This is the official repository for the Data-X seminar and guest lecture at HBKU in Qatar, Doha, November 2018.
 
 #### Outline:
-* **Seminar:** Introduction to UC Berkeley and SCET, Data-X, guide to resources, real world machine learning example.
-* **Guest Lecture:** AI today, Hands on Deep Learning
+* **Seminar Nov 8:** Introduction to UC Berkeley and SCET, Data-X, guide to resources.
+* **Guest Lecture Nov 11:** AI today, Hands on Deep Learning, Blockchain
 
 <a href='https://data-x.blog'>
 <img src='https://img.shields.io/badge/Data--X-Berkeley-yellow.svg'>
@@ -35,17 +35,6 @@ To download this Github repository just press the green `Clone or Download` butt
 
 
 
-
-
-___
-
-<!--->## 📝 Masterclass Schedule
-
-<p align='center'>
-   <img src="./imgs/sched.png" alt="download" width='700px'>
-</p>
-<br>
-<--->
 ## ▶️ Usage
 
 To download the material to your computer please [Install git](https://git-scm.com/downloads) and use the Terminal / Command Prompt to clone the repository.
